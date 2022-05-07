@@ -1,0 +1,13 @@
+﻿{
+  "manifest_version": 1,
+  "version": "1.0.0",
+  "namespace": "rudivuuren.lfb",
+  "name": "Looking For Blish",
+  "description": "This module provides you with an improved LFG experience.",
+  "package": "LFB.dll",
+  "author": {
+    "name": "RudiVuuren",
+    "username": "Maxx.3970",
+    "url": "https://github.com/RudiVuuren"
+  }
+}
